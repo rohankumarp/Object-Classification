@@ -1,0 +1,4 @@
+0 arduino
+1 bottle
+2 speaker
+3 No object detected
